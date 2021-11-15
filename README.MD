@@ -6,7 +6,7 @@ It is mobile-friendly and is very easy to use.
 ![Pixellate](icons/logo.png)
 
 ## Overview
-This App is available at https:pixellate.netlify.app
+This App is available at https://pixellate.netlify.app
 
 ## Usage
 You can choose Any Dimensions for your Canvas, *16 X 16* is the default dimension.  
