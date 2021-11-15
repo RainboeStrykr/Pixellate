@@ -1,12 +1,12 @@
-# PixelCraft
+# Pixellate
 A pixel art Creation Tool Built using HTML5 Canvas.  
 It is a Progressive Web App (PWA) with offline compatibility.  
 It is mobile-friendly and is very easy to use.  
 
-![PixelCraft](icons/logo.png)
+![Pixellate](icons/logo.png)
 
 ## Overview
-This App is available at 
+This App is available at https:pixellate.netlify.app
 
 ## Usage
 You can choose Any Dimensions for your Canvas, *16 X 16* is the default dimension.  
